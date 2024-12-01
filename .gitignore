@@ -2,5 +2,4 @@ node_modules/
 oldcommands/
 settings.json
 bot.js
-.env
 *.wav
